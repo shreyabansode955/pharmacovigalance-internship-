@@ -1,0 +1,60 @@
+# CAUSALITY ASSESSMENT OF ADR
+
+**Case:** Suspected Amoxicillin-Induced Skin Allergy
+
+**Reported Reaction:** Skin rash, redness and itching (Pruritus).
+
+## 1. Naranjo Causality Assessment Scale
+
+The Naranjo scale is used to evaluate the possibility of a relationship between a suspected drug and an adverse reaction. It consists of 10 questions.
+
+| Assessment Question | Response | Score |
+|---|---|---|
+| 1. Are there previous conclusive reports of this reaction? | Yes | +1 |
+| 2. Did the reaction appear after the suspected drug was administered? | Yes | +2 |
+| 3. Did the reaction improve after stopping the drug? | Unknown | 0 |
+| 4. Did the reaction reappear after re-administration? | Unknown | 0 |
+| 5. Are there alternative causes that could have caused the reaction? | Unknown | 0 |
+| 6. Did the reaction reappear after placebo administration? | Unknown | 0 |
+| 7. Was the drug detected in toxic concentrations? | Unknown | 0 |
+| 8. Did the reaction worsen with increased dose or improve with reduced dose? | Unknown | 0 |
+| 9. Did the patient experience a similar reaction with the same or similar drug previously? | Unknown | 0 |
+| 10. Was the adverse reaction confirmed by objective evidence? | Yes | +1 |
+
+**Total Score: 4**
+
+**Interpretation: Possible ADR**
+
+Naranjo scoring:
+- Certain: 9 or more
+- Probable: 5–8
+- Possible: 1–4
+- Doubtful: 0 or less
+
+## 2. WHO-UMC Causality Assessment
+
+The WHO-UMC system evaluates the relationship between a suspected drug and an adverse reaction based on timing, clinical evidence, dechallenge, rechallenge and alternative explanations.
+
+**Assessment:**
+- Time relationship: Reasonable, as symptoms appeared after drug administration.
+- Known reaction: Skin reactions are known with amoxicillin.
+- Alternative causes: Not completely excluded.
+- Dechallenge: Information unavailable.
+- Rechallenge: Information unavailable.
+
+**WHO-UMC Classification: Possible**
+
+## 3. Final Causality Assessment
+
+| Method | Classification |
+|---|---|
+| Naranjo Scale | Possible |
+| WHO-UMC System | Possible |
+
+## 4. Conclusion
+
+Based on the available case information, the patient developed skin rash, redness and itching after taking amoxicillin. The Naranjo score was 4, indicating a Possible adverse drug reaction. The WHO-UMC system also classified the reaction as Possible because alternative causes could not be completely excluded and dechallenge information was unavailable.
+
+Further clinical information is required to establish a stronger relationship between the suspected drug and the reported reaction.
+
+**Note:** This is an illustrative educational case. The responses and scores are based on assumed case details and should be verified against an actual patient case before clinical reporting.
